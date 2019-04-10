@@ -19,7 +19,7 @@ Liri.js can take in one of the following commands:
 
      * Venue location
 
-     * Date of the Event ("MM/DD/YYYY")```
+     * Date of the Event ("MM/DD/YYYY")
 
    
 `node liri.js spotify-this-song '<song name here>'`
